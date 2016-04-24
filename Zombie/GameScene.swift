@@ -16,7 +16,6 @@ class GameScene: SKScene {
     
     let movePositionsPerSecond:CGFloat = 3.0
     var velocity = CGPoint(x: 1, y: 1)
-//    let mySprite = SKSpriteNode(color: UIColor(colorLiteralRed: 200, green: 70, blue: 0, alpha: 1.0) , size: CGSize(width: 10, height: 10))
     
     let mySprite = SKSpriteNode(imageNamed: "zombie1")
   
