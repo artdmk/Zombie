@@ -86,22 +86,22 @@ class GameScene: SKScene {
         if mySprite.position.x <= bottomleft.x{
             mySprite.position.x = bottomleft.x
             velocity.x = -velocity.x
-//            playSound("changeDirection.wav")
+            playSound("changeDirection.wav")
         }
         if mySprite.position.x >= topRight.x{
             mySprite.position.x = topRight.x
             velocity.x = -velocity.x
-//            playSound("changeDirection.wav")
+            playSound("changeDirection.wav")
         }
         if mySprite.position.y <= bottomleft.y{
             mySprite.position.y = bottomleft.y
             velocity.y = -velocity.y
-//            playSound("changeDirection.wav")
+            playSound("changeDirection.wav")
         }
         if mySprite.position.y >= topRight.y{
             mySprite.position.y = topRight.y
             velocity.y = -velocity.y
-//            playSound("changeDirection.wav")
+            playSound("changeDirection.wav")
         }
         
     }
