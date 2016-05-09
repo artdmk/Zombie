@@ -7,8 +7,9 @@
 //
 
 import UIKit
-import SpriteKit
 
+import SpriteKit
+//
 class Zombie:SKSpriteNode {
     let mySprite = SKSpriteNode(imageNamed: "zombie1")
 }
