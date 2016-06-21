@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B5110151D1811D800145CD1 /* Siren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3B5110141D1811D800145CD1 /* Siren.mp3 */; };
 		3B6F76D61CBC5F5800E3F25B /* changeDirection.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3B6F76D51CBC5F5800E3F25B /* changeDirection.wav */; };
 		3B83B43A1CC18C9900D5A0B8 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B83B4391CC18C9900D5A0B8 /* Utils.swift */; };
 		3BE7EC351CB59D4F00F74E3B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BE7EC341CB59D4F00F74E3B /* AppDelegate.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3B5110141D1811D800145CD1 /* Siren.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Siren.mp3; sourceTree = "<group>"; };
 		3B6F76D51CBC5F5800E3F25B /* changeDirection.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = changeDirection.wav; sourceTree = "<group>"; };
 		3B83B4391CC18C9900D5A0B8 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 		3BE7EC311CB59D4F00F74E3B /* Zombie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Zombie.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,6 +97,7 @@
 				3BE7EC4C1CB59D4F00F74E3B /* ZombieTests */,
 				3BE7EC571CB59D4F00F74E3B /* ZombieUITests */,
 				3BE7EC321CB59D4F00F74E3B /* Products */,
+				3B5110141D1811D800145CD1 /* Siren.mp3 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -253,6 +256,7 @@
 				3B6F76D61CBC5F5800E3F25B /* changeDirection.wav in Resources */,
 				3BE7EC401CB59D4F00F74E3B /* Assets.xcassets in Resources */,
 				3BE7EC3E1CB59D4F00F74E3B /* Main.storyboard in Resources */,
+				3B5110151D1811D800145CD1 /* Siren.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
